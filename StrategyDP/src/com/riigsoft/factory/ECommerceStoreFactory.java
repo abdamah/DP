@@ -1,4 +1,4 @@
-package com.nt.factory;
+package com.riigsoft.factory;
 
 import com.riigsoft.component.IPayment;
 import com.riigsoft.component.impl.CreditCardPayment;

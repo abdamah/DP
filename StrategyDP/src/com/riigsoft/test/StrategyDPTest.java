@@ -1,7 +1,8 @@
 package com.riigsoft.test;
 
 
-import com.nt.factory.ECommerceStoreFactory;
+
+import com.riigsoft.factory.ECommerceStoreFactory;
 import com.riigsoft.store.ECommerceStore;
 
 public class StrategyDPTest {
